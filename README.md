@@ -4,7 +4,7 @@
 
 <body>
 
-<p>This Python-based email classification system is designed to effectively distinguish between spam and ham emails. It incorporates several advanced techniques and libraries, including Natural Language Toolkit (NLTK), to optimize its performance.</p>
+<p>This Python-based email classification system is designed to effectively distinguish between spam and ham emails. It incorporates several natural langu techniques and libraries, including Natural Language Toolkit (NLTK), to optimize its performance.</p>
 
 <h2>Key Technical Features:</h2>
 
