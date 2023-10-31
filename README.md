@@ -1,12 +1,8 @@
 # email-spam-ham-classification
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Email Spam/Ham Classification System</title>
-</head>
-<body>
 
-<h1>Email Spam/Ham Classification System</h1>
+<body>
 
 <p>This Python-based email classification system is designed to effectively distinguish between spam and ham emails. It incorporates several advanced techniques and libraries, including Natural Language Toolkit (NLTK), to optimize its performance.</p>
 
