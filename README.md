@@ -35,4 +35,4 @@
 </body>
 </html>
 
-![image](https://github.com/sisirapathakamuri/email-spam-ham-classification/assets/149529159/5c278789-5e49-465d-97ed-be6639207e7b)
+
